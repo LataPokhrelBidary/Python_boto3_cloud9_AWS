@@ -8,8 +8,10 @@
 
 Hi there! Welcome to AWS Cloud9!
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+For detail insruction for this project, floow me on medium. 
+
+https://medium.com/towardsdev/aws-cloud-automation-using-python-boto3-and-cloud9-65392eafcfcd
+
 
 Thanks
 Happy coding!!!
