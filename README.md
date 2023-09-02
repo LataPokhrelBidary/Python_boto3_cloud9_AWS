@@ -8,10 +8,11 @@
 
 Hi there! Welcome to AWS Cloud9!
 
-For detail insruction for this project, floow me on medium. 
+For detail insruction for this project, follow me on medium. 
 
 https://medium.com/towardsdev/aws-cloud-automation-using-python-boto3-and-cloud9-65392eafcfcd
 
 
 Thanks
+
 Happy coding!!!
